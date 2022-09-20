@@ -6,4 +6,4 @@
 
 4.WAP to accept Character from user and check if it is vowel or not
 
-5.WAP to accept choice from user and accordingly display the output{Did not understand problem statement}
+5.WAP to accept the number from user and display a square if no is divisible by 5
